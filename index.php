@@ -162,13 +162,5 @@ function result ($string) {
 // result($password);
 
 
-
-
-
-
-
-
-
 // $special = checkSpecial($password);
-// var_dump($special);
 

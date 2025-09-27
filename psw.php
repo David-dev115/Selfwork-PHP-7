@@ -9,6 +9,6 @@ do {
 //stiamo negando la funzione, se il risultato e falso la ristampa
 
 
-
+// implemento una serie di if alla funzione result per visualizzare gli esiti dei test
 
 
